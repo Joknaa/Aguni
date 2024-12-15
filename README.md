@@ -1,2 +1,2 @@
 # UnityProjectTemplate
-This is a template for my unity game projects
+This is a template for my unity game projects 
